@@ -1,0 +1,58 @@
+.box{
+	border: 5px solid black;
+	padding: 20px;
+}
+h1{
+	color: gray;
+	text-align: center;
+}
+.wrapper{
+	overflow: hidden;
+	margin: 5px;
+}
+.blog{
+	width: 70%;
+	background-color: red;
+
+	float: left;
+}
+.contact{
+	width: 30%;
+	background-color: green;
+	float: right;
+}
+#list{
+	background-color: skyblue;
+}
+
+tr, th, td{
+	border: 3px solid green;
+}
+.container{
+	overflow: hidden;
+}
+.table{
+	width: 35%;
+	float: left;
+	padding: 30px;
+
+
+}
+.image{
+	width: 60%;
+	float: right;
+
+}
+.article{
+	border: 1px dotted blue;
+	margin: 7px;
+	padding: 7px;
+	background-color: orange;
+
+}
+footer{
+	background-color: gray;
+	text-align: center;
+
+
+}
